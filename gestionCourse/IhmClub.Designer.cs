@@ -134,7 +134,7 @@ namespace gestionCourse
             this.textBoxVille.Size = new System.Drawing.Size(100, 31);
             this.textBoxVille.TabIndex = 10;
             // 
-            // Form1
+            // IhmClub
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -150,7 +150,7 @@ namespace gestionCourse
             this.Controls.Add(this.label1);
             this.Controls.Add(this.buttonAnnuler);
             this.Controls.Add(this.buttonEnvoyer);
-            this.Name = "Form1";
+            this.Name = "IhmClub";
             this.Text = "Form1";
             this.ResumeLayout(false);
             this.PerformLayout();
